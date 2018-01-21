@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">Project Apple</string>
+    <string name="app_name">Proj Apple</string>
     <string name="title_home">Home</string>
     <string name="title_post">Post</string>
     <string name="title_messages">Messages</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="post_fragment">Post a Case</string>
+    <string name="message_fragment">Messages Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
 </resources>
